@@ -22,7 +22,7 @@
 </ul>
 <h2>Demo</h2>
 
-<p></p>
+<p>https://haiderghadi.github.io/password-Generator/</p>
 
 <h2>Contact</h2>
 
